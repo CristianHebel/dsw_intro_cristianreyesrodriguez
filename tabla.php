@@ -1,5 +1,6 @@
 <html>
     <body>
+        <title> Esto es una modificación </title>
     <table style="border: 3px solid black";>
         <tr>
             <td style="border: 1px solid black";>
