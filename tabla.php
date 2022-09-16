@@ -2,9 +2,9 @@
     <body>
         <title> Esto es una modificación </title>
         
-        <h1> esto es una modificacion h1, por samuel  x2 </h1>
-        <h1> holahola </h1>
-        <h1> esto es una  h1 </h1>
+        <h1> probando conflicto . </h1>  
+        <h1> dosdosdosdosd . </h1>
+        <h1> Cristian Hebel Reyes Rodríguez </h1>
     <table style="border: 3px solid black";>
         <tr>
             <td style="border: 1px solid black";>
