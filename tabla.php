@@ -2,7 +2,7 @@
     <body>
         <title> Esto es una modificación </title>
         
-        <h1> probando conflicto . </h1>  
+        <h1> probando conflicto . asjasdfasdfasdodfjaosdfjoasdfoj </h1>  
         <h1> oiu</h1>
         <h1> Cristian Hebel Reyes Rodríguez </h1>
     <table style="border: 3px solid black";>
