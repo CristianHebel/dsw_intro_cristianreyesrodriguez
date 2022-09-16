@@ -3,7 +3,7 @@
         <title> Esto es una modificación </title>
         
         <h1> esto es una modificacion h1 </h1>
-        <h1> sadfsdgfsdgsd </h1>
+        <h1> Cristian Hebel Reyes Rodríguez </h1>
     <table style="border: 3px solid black";>
         <tr>
             <td style="border: 1px solid black";>
