@@ -2,7 +2,7 @@
     <body>
         <title> Esto es una modificación </title>
         
-        <h1> esto es una modificacion h1, por samuel  </h1>
+        <h1> esto es una modificacion h1, por samuel  x2 </h1>
         <h1> esto es una  h1 </h1>
     <table style="border: 3px solid black";>
         <tr>
